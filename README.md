@@ -43,6 +43,8 @@ This is not a forced wizard. Each tool works independently. The handoffs exist s
 
 ## Product evidence
 
+The screenshots below were captured on 22 September 2026 from the exact SQLTerrain `0.149.0` main baseline at a 1440×900 CSS viewport and 2× pixel density. Stateful examples use public synthetic queries and datasets; no production SQL, customer data, or internal debug state is shown.
+
 ### Overview
 
 ![SQLTerrain homepage introducing the four-tool local-first SQL reasoning workflow](assets/screenshots/overview.png)
